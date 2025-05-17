@@ -1,5 +1,8 @@
 'use client'
 
+import React from 'react'
+import Link from 'next/link'
+
 export default function Home() {
   return (
     <div className="page-container">
@@ -46,6 +49,44 @@ export default function Home() {
                 We envision a future where space is accessible, vehicles are smart enough to 
                 anticipate human needs, and all systems are secured through decentralized technology.
               </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Projects Section */}
+      <section id="projects" className="tech-section">
+        <div className="container">
+          <h2>Our <span className="accent-text">Projects</span></h2>
+          <p>
+            Check out some of our innovative projects and hackathon submissions
+          </p>
+
+          <div className="tech-grid">
+            <div className="feature-card">
+              <h3>RollingDash</h3>
+              <p>
+                A blockchain-powered vehicle data marketplace that rewards drivers
+                for sharing selected data while maintaining privacy control.
+              </p>
+              <div className="emoji">🚗</div>
+              <Link href="/rollingdash" className="btn btn-outline">View Project</Link>
+            </div>
+            <div className="feature-card">
+              <h3>Space Explorer</h3>
+              <p>
+                Virtual reality simulation of space environments for training
+                and educational purposes.
+              </p>
+              <div className="emoji">🚀</div>
+            </div>
+            <div className="feature-card">
+              <h3>AI Pilot</h3>
+              <p>
+                Autonomous vehicle navigation system powered by advanced
+                artificial intelligence algorithms.
+              </p>
+              <div className="emoji">🤖</div>
             </div>
           </div>
         </div>
