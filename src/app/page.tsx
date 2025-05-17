@@ -29,7 +29,7 @@ export default function Home() {
       {/* About Section */}
       <section id="about" className="about-section">
         <div className="container">
-          <h2>About <span className="accent-text">ARCKS</span></h2>
+          <h2>About <span className="accent-text">ARCKSXYZ</span></h2>
           <p>
             Pioneering the intersection of space exploration, smart vehicle technology,
             and blockchain innovation.
@@ -39,7 +39,7 @@ export default function Home() {
             <div className="about-card">
               <h3>Our Mission</h3>
               <p>
-                ARCKS is dedicated to advancing humanity's reach beyond Earth through 
+                ARCKSXYZ is dedicated to advancing humanity's reach beyond Earth through 
                 cutting-edge AI technology and blockchain-secured systems.
               </p>
             </div>

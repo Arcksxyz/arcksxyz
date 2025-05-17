@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ARCKS - Space Exploration & Smart Vehicles",
+  title: "ARCKSXYZ - Space Exploration & Smart Vehicles",
   description: "Pioneering space exploration and smart vehicles with AI-powered intelligence from deepersensor.",
 };
 

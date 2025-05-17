@@ -300,7 +300,7 @@ export default function RollingDash() {
               Interested in learning more about the RollingDash project or want to contribute?
             </p>
             <div className="cta-buttons">
-              <Link href="/" className="btn btn-primary">Back to ARCKS Homepage</Link>
+              <Link href="/" className="btn btn-primary">Back to ARCKSXYZ Homepage</Link>
               <a href="https://github.com/buildathonzx/rollingdash" className="btn btn-outline">View Source Code</a>
             </div>
           </div>

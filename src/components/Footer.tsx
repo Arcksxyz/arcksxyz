@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="footer-about">
             <Link href="/" className="logo">
               <div className="logo-text">
-                <span className="accent-text">ARCKS</span>
+                <span className="accent-text">ARCKSXYZ</span>
               </div>
             </Link>
             <p>
@@ -56,7 +56,7 @@ export default function Footer() {
           <div className="footer-contact">
             <h3>Contact</h3>
             <p>
-              Email: <a href="mailto:info@arcks.xyz">info@arcks.xyz</a>
+              Email: <a href="mailto:official-support@arcksxyz.space">official-support@arcksxyz.space</a>
             </p>
             <div className="social-icons">
               <a href="#" aria-label="Facebook">📱</a>
@@ -68,7 +68,7 @@ export default function Footer() {
 
         <div className="footer-bottom">
           <p>
-            © {new Date().getFullYear()} ARCKS. All rights reserved.
+            © {new Date().getFullYear()} ARCKSXYZ. All rights reserved.
           </p>
           <div className="footer-legal">
             <Link href="/privacy">

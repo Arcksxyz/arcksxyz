@@ -8,7 +8,7 @@ export default function Header() {
         <div className="header-content">
           <Link href="/" className="logo">
             <div className="logo-text">
-              <span className="accent-text">ARCKS</span>
+              <span className="accent-text">ARCKSXYZ</span>
             </div>
           </Link>
 
