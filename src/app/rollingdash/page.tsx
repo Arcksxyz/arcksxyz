@@ -250,6 +250,47 @@ export default function RollingDash() {
         </div>
       </section>
 
+      {/* Para Integration Section */}
+      <section id="para-integration" className="tech-section para-special-section">
+        <div className="container">
+          <h2>✨ Supercharged by <span className="accent-text">Para</span> ✨</h2>
+          <p>
+            Step into a world where authentication feels like magic and wallet creation happens in the blink of an eye
+          </p>
+
+          <div className="tech-grid">
+            <div className="feature-card para-card">
+              <h3>Breathtaking Biometric Auth</h3>
+              <p>
+                Say goodbye to passwords forever! With Para's Native Passkeys, your fingerprint or face becomes your 
+                key to the decentralized kingdom. One touch, and you're in—it's security that feels like sorcery.
+              </p>
+              <div className="emoji">⚡</div>
+            </div>
+            <div className="feature-card para-card">
+              <h3>Wallet Creation in Milliseconds</h3>
+              <p>
+                Watch in awe as Para conjures your non-custodial wallet almost instantly. The days of complex seed phrases 
+                and technical hurdles are history—it's YOUR wallet, YOUR keys, and YOUR gateway to digital prosperity.
+              </p>
+              <div className="emoji">🔐</div>
+            </div>
+            <div className="feature-card para-card">
+              <h3>Luxurious Onchain Experience</h3>
+              <p>
+                From zero to blockchain hero in seconds! Para transforms complicated crypto interactions into 
+                intuitive gestures, making selling your vehicle data as simple as posting a photo. Welcome to the future 
+                of decentralized mobility!
+              </p>
+              <div className="emoji">✨</div>
+            </div>
+          </div>
+          <div className="para-highlight">
+            <span className="accent-text">#DriveFuture #PoweredByPara</span>
+          </div>
+        </div>
+      </section>
+
       {/* Call to Action */}
       <section id="contact" className="contact-section">
         <div className="container">
