@@ -20,7 +20,7 @@ export default function RollingDash() {
             </p>
             <div className="hero-buttons">
               <a href="#features" className="btn btn-primary">Explore Features</a>
-              <a href="https://github.com/arcksxyz/rollingdash" className="btn btn-outline">View on GitHub</a>
+              <a href="https://github.com/buildathonzx/rollingdash" className="btn btn-outline">View on GitHub</a>
             </div>
           </div>
         </div>
@@ -260,7 +260,7 @@ export default function RollingDash() {
             </p>
             <div className="cta-buttons">
               <Link href="/" className="btn btn-primary">Back to ARCKS Homepage</Link>
-              <a href="https://github.com/arcksxyz/rollingdash" className="btn btn-outline">View Source Code</a>
+              <a href="https://github.com/buildathonzx/rollingdash" className="btn btn-outline">View Source Code</a>
             </div>
           </div>
         </div>
